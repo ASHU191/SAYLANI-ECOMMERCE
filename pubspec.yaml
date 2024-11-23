@@ -57,9 +57,9 @@ dev_dependencies:
 flutter:
 
   # The following line ensures that the Material Icons font is
-  # included with your application, so that you can use the icons in
+  # included with your application, so that you can use the icons in                 
   # the material Icons class.
-  uses-material-design: true
+  uses-material-design: true                      
 
   # To add assets to your application, add an assets section, like this:
   assets:
@@ -74,7 +74,7 @@ flutter:
     - assets/images/2.png
     - assets/images/3.png
     - assets/images/5.png
-    - assets/images/4.jpeg.jpg
+    - assets/images/4.jpeg.jpg                 
     - assets/images/mastercard.png
     - assets/images/visa.png
 
